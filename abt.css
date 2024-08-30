@@ -1,0 +1,29 @@
+.about{
+    font-family: cursive;
+}
+.nothing{
+    background-color: antiquewhite;
+    padding: 150px;
+}
+.abtlogo{
+    height: 200px;
+    width: 270px;
+    background-color: antiquewhite;
+    background-image: url(eat_repeat-removebg-preview.png);
+    background-size:cover;
+    position: relative;
+    top: 50px   ;
+    left: 600px;
+    
+}
+.name{
+    text-decoration: none;
+    font-weight: bold;
+}
+.address{
+    text-decoration: underline;
+    position: relative;
+    top: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
